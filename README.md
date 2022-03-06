@@ -1,12 +1,15 @@
-# Laravel API with JSON Web Token (JWT) stateless authentication
+#CONFIGS
+PHP v - 7.3
+MYSQL-8.0-x64
 
-Based heavily from:
+#RUN STEPS
+1)run phpmyadmin create table laravel
+2)php artisan migrate 
+3)php artisan db:seed
+5)run serve
 
-- https://github.com/guillaumebriday/todolist-frontend-vuejs/
-- https://github.com/guillaumebriday/todolist-backend-laravel
+log:admin@admin.com
+pass:111111
 
-- Awesome tutorial: https://blog.pusher.com/build-rest-api-laravel-api-resources/
-
-- Vue SPA: https://codeburst.io/api-authentication-in-laravel-vue-spa-using-jwt-auth-d8251b3632e0
-
-Tutorial: https://tutsforweb.com/restful-api-in-laravel-56-using-jwt-authentication/
+log:user@user.com
+pass:111111
