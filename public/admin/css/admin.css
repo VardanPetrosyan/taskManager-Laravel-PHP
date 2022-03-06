@@ -1,0 +1,112 @@
+
+.logo img {
+    width: 44px;
+    margin: 10px 0 10px 10px;
+}
+
+.list-name {
+    color: #72777a!important;
+}
+
+.none {
+    display:none;
+}
+
+.admin-logout {
+    line-height: 65px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.margined-header {
+    margin-bottom: 20px;
+}
+
+.icons {
+    color:#82d4fd;
+    font-size:28px;
+}
+
+.icon2 {
+    color: #3f51b5 !important;
+}
+
+.card-body-border-bottom-lined:not(:last-child) {
+    border-bottom: 1px solid #eee;
+}
+
+.textarea-min-100 {
+    min-height: 150px;
+}
+
+.themify-big-icon {
+    font-size: 23px;
+}
+
+.question-title {
+    margin-bottom: 10px;
+}
+
+.view-small {
+    position: absolute;
+    right: 35px;
+    top: 33px;
+    font-size: 9px;
+    color: #606060;
+}
+
+.add-time-btn {
+    background: #2bbb2b;
+    color: white;
+    font-size: 10px;
+    padding: 4px 4px 3px 3px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.answer-changed {
+    width: 16px;
+    height: 25px;
+    overflow: hidden;
+}
+
+.answer-changed:hover {
+    overflow: visible;
+    width: 35px;
+}
+
+.testers-dashboard {
+    width: 20%;
+    position: relative;
+}
+
+.answer-icons, .question-icons {
+    display: none !important;
+}
+
+.icon {
+    color: #4caf50 !important;
+    font-size: 19px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+
+.modal-content {
+    top: 230px !important;
+    position: fixed;
+}
+
+#angle {
+    transition: 0.2s;
+}
+
+td.col-user-image {
+    margin-right: 0 !important;
+    float: none !important;
+}
+
+td.col-user-image img {
+    width: 40px;
+    border-radius: 50%;
+}
